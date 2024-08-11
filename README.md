@@ -7,6 +7,5 @@
       </a>
 </div>
 
-Link to video : [https://www.youtube.com/watch?v=3xyoM28B40Y
-](https://youtu.be/p2b17zou1yc)
+Link to video : (https://youtu.be/p2b17zou1yc)
 
